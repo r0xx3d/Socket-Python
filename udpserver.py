@@ -1,6 +1,6 @@
 import socket
 
-IP = '172.25.209.47'
+IP = '' #check your IP using IPconfig if on windows and add here
 PORT = 9998
 buffersize = 1024
 
